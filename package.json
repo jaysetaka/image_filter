@@ -1,0 +1,16 @@
+{
+  "name": "filter",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "version": "1.0.0",
+  "description": "Editing Images App",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "jabu",
+  "license": "MIT"
+}
